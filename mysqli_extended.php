@@ -1,9 +1,8 @@
 <?php
 /**
- * Mysqli DB bağlantı ve hata sınıfımız
+ * Onur Canalp
+ * Mysqli DB bağlantı ve hata sınıfımız.. Basit anlamda örnek olması için..
  */
-
-
 
 /*
  * MySQL Server a bağlantıda hata yaşarsak bu Exception sınıfından türettiğimiz hatayı döndüreceğiz.
